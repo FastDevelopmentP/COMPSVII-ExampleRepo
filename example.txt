@@ -1,1 +1,2 @@
 I finally figured out how to open this file
+Here is the next step on syncing things through the VS Code user interface
